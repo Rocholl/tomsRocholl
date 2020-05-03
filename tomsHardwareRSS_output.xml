@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <introduction>
+        <title>Tom's Hardware</title>
+        <link>https://www.tomshardware.com/feeds/all</link>
+        <description>For the hardcore PC enthusiast</description>
+    </introduction>
+    <notices>
+        <notice>
+            <title>MSI Goes 165Hz With Its Curved Optix G27C5 Gaming Monitor</title>
+            <description>MSI updated its popular G27C4 gaming monitor with a new C5 model that boosts the 27-inch panel's refresh rate to 144 Hz. </description>
+            <link>https://www.tomshardware.com/news/msi-optix-g27c5-gaming-monitor-165hz</link>
+            <author>Niels Broekhuijsen</author>
+        </notice>
+        <notice>
+            <title>The Disco Pixel PC: Building a Flashy, Formidable Mid-Tower in InWin’s 309 Case</title>
+            <description>Starting off with InWin’s pixel-packing 309 chassis, we built a bright, capable PC with a Ryzen 7 3700X, an Nvidia RTX 2070 Super and lots of RGB extras.</description>
+            <link>https://www.tomshardware.com/features/disco-pixel-midtower-pc-build</link>
+            <author>Matt Safford</author>
+        </notice>
+        <notice>
+            <title>Toshiba Outs its List of Hard Drives With  Slower SMR Technology</title>
+            <description>Toshiba has shared a list of all of its hard drives that leverage SMR technology.</description>
+            <link>https://www.tomshardware.com/news/toshiba-hard-drives-smr-list-slower</link>
+            <author>Zhiye Liu</author>
+        </notice>
+        <notice>
+            <title>Windows 10 Tips and Tricks: From Troubleshooting to Life-Changing Productivity Hacks</title>
+            <description>These are our best Windows 10 tips and tricks for making the most out of your PC and the OS.</description>
+            <link>https://www.tomshardware.com/how-to/windows-10-tips-and-tricks-2020</link>
+            <author>Scharon Harding</author>
+        </notice>
+        <notice>
+            <title>AMD Posts Record Quarterly Revenue and Notebook Sales, Zen 3 and RDNA 2 On Track</title>
+            <description>AMD posted strong year-over-year financial performance for its 1Q 2020 results, but coronavirus-spurred concerns loom. </description>
+            <link>https://www.tomshardware.com/news/amd-record-1q-2020-ryzen-4000-rdna-2-zen-3</link>
+            <author>Paul Alcorn</author>
+        </notice>
+        <notice>
+            <title>How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor</title>
+            <description>By tweaking a few files on its microSD card, you can set your Raspberry Pi for remote access without ever attaching a monitor or keyboard.</description>
+            <link>https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html</link>
+            <author>Avram Piltch</author>
+        </notice>
+        <notice>
+            <title>Build Your Own Portable Wii with the G-Boy Kit</title>
+            <description>BitBuilt's G-Boy Rev III looks to give beginners to the console modding scene a place to start.</description>
+            <link>https://www.tomshardware.com/news/g-boy-portable-wii-kit</link>
+            <author>Michelle Ehrhardt</author>
+        </notice>
+        <notice>
+            <title>Chinese DRAM Maker CXMT Signs Patent Deal With Rambus</title>
+            <description>ChangXin Memory Technologies has signed a patent license agreement with Rambus Inc.</description>
+            <link>https://www.tomshardware.com/news/cxmt-patent-agreement-rambus-china-dram-memory</link>
+            <author>Zhiye Liu</author>
+        </notice>
+        <notice>
+            <title>Asus 4K Gaming Monitor With FreeSync Drops to $270 </title>
+            <description>Asus’ VP28UQGL gaming monitor is a great entry point into ultra HD resolutions</description>
+            <link>https://www.tomshardware.com/news/cheap-4k-monitor-gaming-deal-sale</link>
+            <author>Michelle Ehrhardt</author>
+        </notice>
+        <notice>
+            <title>This Raspberry Pi Spotify Boombox Tells Time With Nixie Tubes</title>
+            <description>This Boombox uses a Raspberry Pi Zero to play music from Spotify and has a Nixie tube display.</description>
+            <link>https://www.tomshardware.com/news/raspberry-pi-spotify-boombox-nixie-tube-project</link>
+            <author>Ash Puckett</author>
+        </notice>
+        <notice>
+            <title>AMD Reportedly Embraces DDR5 and USB 4.0 For Next-Gen CPUs In 2022</title>
+            <description>Internal AMD roadmap allegedly reveals the chipmaker's future plans to support DDR5 and USB 4.0 in upcoming CPUs.</description>
+            <link>https://www.tomshardware.com/news/amd-ddr5-usb-4-next-gen-cpus-2022</link>
+            <author>Zhiye Liu</author>
+        </notice>
+        <notice>
+            <title>This Noctua-Inspired 3D Printer Build Is Gorgeous</title>
+            <description>A Noctua enthusiast is building a 3D printer in the company's signature beige and brown, and it looks great</description>
+            <link>https://www.tomshardware.com/news/noctua-inspired-3d-printer-build-fans</link>
+            <author>Michelle Ehrhardt</author>
+        </notice>
+        <notice>
+            <title>How to Share Your Internet Connection in Windows Using Ethernet or Wi-Fi</title>
+            <description>If one PC has Internet access but another does not, you can share the connection via wired or wireless.</description>
+            <link>https://www.tomshardware.com/how-to/share-internet-connection-windows-ethernet-wi-fi</link>
+            <author>Avram Piltch</author>
+        </notice>
+        <notice>
+            <title>Intel Unlocks GPU Drivers for OEM Systems</title>
+            <description>With Xe around the corner, Intel just unlocked its GPU drivers so that you no longer rely on your OEM for GPU driver updates.</description>
+            <link>https://www.tomshardware.com/news/intel-unlocks-gpu-drivers-for-oem-systems</link>
+            <author>Niels Broekhuijsen</author>
+        </notice>
+        <notice>
+            <title>Hot-Swap M.2 NVMe SSDs With Icy Dock's Latest Gadget</title>
+            <description>Want some 3.5 GBps SSD goodness but limited by your SATA-only system? Icy Dock helps you upgrade.</description>
+            <link>https://www.tomshardware.com/news/hot-swap-m2-nvme-ssd-icy-dock</link>
+            <author>Niels Broekhuijsen</author>
+        </notice>
+        <notice>
+            <title>be quiet! Pure Base 500DX Review: Straying from Tradition</title>
+            <description>be quiet!’s Pure Base 500DX is an airflow-optimized chassis that offers incredible value with all its included goodies, but does it live up to the be quiet! name?</description>
+            <link>https://www.tomshardware.com/reviews/be-quiet-pure-base-500dx</link>
+            <author>Niels Broekhuijsen</author>
+        </notice>
+        <notice>
+            <title>Best SSDs 2020: From Budget SATA to Blazing-Fast NVMe</title>
+            <description>Based on our extensive lab tests, we recommend the best SSDs for every need and budget.</description>
+            <link>https://www.tomshardware.com/reviews/best-ssds,3891.html</link>
+            <author>Sean Webster</author>
+        </notice>
+        <notice>
+            <title>Best CPU Coolers 2020: Air and Liquid</title>
+            <description>Here are the best CPU cooling solutions (air and liquid) for a range of systems, from small form-factor builds to overclocked big-rigs.</description>
+            <link>https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html</link>
+            <author>Thomas Soderstrom</author>
+        </notice>
+        <notice>
+            <title>The Tom’s Hardware-PC Gamer System Build-Off Is Here: Enter Now </title>
+            <description>Tom's Hardware and PC Gamer are hosting a PC building competition, which ends in a week. Here's how to submit before the deadline.</description>
+            <link>https://www.tomshardware.com/news/toms-hardware-pc-gamer-build-off-contest</link>
+            <author>Michelle Ehrhardt</author>
+        </notice>
+        <notice>
+            <title>Asus' 15-Inch AMD Ryzen 5 Gaming Laptop Drops to $849 </title>
+            <description>The Asus TUF 15.6-inch gaming laptop with an AMD Ryzen 5 CPU is on sale at Newegg. </description>
+            <link>https://www.tomshardware.com/news/cheap-gaming-laptop-amd-deal-sale-asus</link>
+            <author>Michelle Ehrhardt</author>
+        </notice>
+        <notice>
+            <title>Best Gaming Microphones for 2020</title>
+            <description>Whether you're streaming to Twitch or just having a group chat with coop players, these are the best gaming microphones for crystal-clear audio.</description>
+            <link>https://www.tomshardware.com/reviews/best-gaming-microphones,6247.html</link>
+            <author>Phil Iwaniuk</author>
+        </notice>
+        <notice>
+            <title>Intel B460 Motherboards Could Land With Overclocking Functionality</title>
+            <description>Marketing materials for Maxsun's B460 iCraft Gaming Endless motherboard suggest the presence of overclocking features.</description>
+            <link>https://www.tomshardware.com/news/intel-b460-motherboards-could-land-with-overclocking-functionality</link>
+            <author>Zhiye Liu</author>
+        </notice>
+        <notice>
+            <title>Roccat Kain 100 Aimo Mouse Review: A Satisfying Click</title>
+            <description>The Roccat Kain 100 Aimo’s left and right buttons’ “Titan Click” is more than a marketing gimmick, but its much-touted RGB functionality leaves much to be desired.</description>
+            <link>https://www.tomshardware.com/reviews/roccat-kain-100-aimo</link>
+            <author>Michelle Ehrhardt</author>
+        </notice>
+        <notice>
+            <title>This Raspberry Pi Drink Mixer Machine Is all the Bartender You Need </title>
+            <description>This project uses a Raspberry Pi to create custom mixed drinks to order.</description>
+            <link>https://www.tomshardware.com/news/raspberry-pi-diy-drink-mixer-project-mixmakr</link>
+            <author>Ash Puckett</author>
+        </notice>
+        <notice>
+            <title>Aorus K1 Keyboard Wraps Cherry MX Red Switches in Cyberpunk Styling </title>
+            <description>Gigbayte's new Aorus K1 gaming keyboard repackages the Aorus K7 in a new cyberpunk shell. </description>
+            <link>https://www.tomshardware.com/news/gigabyte-aorus-k1-gaming-keyboard-rgb-mechanical</link>
+            <author>Michelle Ehrhardt</author>
+        </notice>
+        <notice>
+            <title>Galax Reveals RTX 2080 and 2070 Super  Graphics Cards Dripping in Pink </title>
+            <description>Galax revealed the GeForce RTX 2080 Super and RTX 2070 Super EX Pink Edition.</description>
+            <link>https://www.tomshardware.com/news/galax-geforce-rtx-2080-super-pink-edition-2070</link>
+            <author>Zhiye Liu</author>
+        </notice>
+        <notice>
+            <title>AMD vs Intel 2020: Who Makes the Best CPUs?</title>
+            <description>We wade into the endless debate: Who makes the best CPU, AMD or Intel?</description>
+            <link>https://www.tomshardware.com/features/amd-vs-intel-cpus</link>
+            <author>Paul Alcorn</author>
+        </notice>
+        <notice>
+            <title>Roccat Kain 200 Aimo Mouse Review: Feature-Packed Wireless</title>
+            <description>The Roccat Kain 200 Aimo has a lot of features, a pleasant feel and good gaming performance. But the shape of the mouse won’t mesh well with some palm grippers.</description>
+            <link>https://www.tomshardware.com/reviews/roccat-kain-200-aimo</link>
+            <author>Scharon Harding</author>
+        </notice>
+        <notice>
+            <title>How to Shade Every Other Row in Excel / Google Sheets</title>
+            <description>Shading every other row in Excel or Google Sheets is a great way to organize your data and make your tables easier to read.</description>
+            <link>https://www.tomshardware.com/how-to/shade-every-other-row-excel-google-sheets</link>
+            <author>Anj Bryant</author>
+        </notice>
+        <notice>
+            <title>Razer Viper Gaming Mouse Review: Lefties’ Bestie, Righties’ Meh-stie</title>
+            <description>The Razer Viper is a middling gaming mouse with solid technology undermined by its build, which is too small for palm grippers to use comfortably. But it’s among the best options for left-handed players.</description>
+            <link>https://www.tomshardware.com/reviews/razer-viper-mouse</link>
+            <author>Nathaniel Mott</author>
+        </notice>
+    </notices>
+</root>
