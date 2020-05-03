@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><root>
+<?xml version="1.0" encoding="UTF-8"?><root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"       xsi:noNamespaceSchemaLocation="../xsdToms.xsd">
     <introduction>
         <title>Tom's Hardware</title>
         <link>https://www.tomshardware.com/feeds/all</link>
